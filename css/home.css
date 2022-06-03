@@ -1,4 +1,7 @@
 main {
     display: grid;
     grid-template-columns: repeat(4, 3fr);
+    margin-top: 10%;
+    gap: 10%;
+    align-items: center;
 }
